@@ -2,6 +2,7 @@
     "name": "itrulia/minimalist",
     "description": "Minify your Laravel views",
     "version": "1.0.0",
+    "keywords": ["laravel","minify", "html"],
     "authors": [
         {
             "name": "Itrulia <Karl Merkli>",
